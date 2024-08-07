@@ -21,6 +21,8 @@ body{
     font-size: 32px;
     border-radius: 0;
     width: 300px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+
 
 }
 h2{
