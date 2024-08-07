@@ -25,10 +25,23 @@ body{
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
-.login{
+/*.login{
     background-color: rgb(141, 240, 240);
-}
-h2{
+} */
+
+/* make login button stylish. Code from Pre-work assignment*/
+ .login {
+    padding: 12px;
+    border-radius: 10px;
+    background-color: #65c2cac7 ; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    cursor: pointer;
+
+ }
+
+
+h2 {
     margin: 0;
     color: darkgrey;
     font-size: 24px;
