@@ -14,6 +14,7 @@ body{
     left: 50%;
     translate: (-50%, -50%); /*set perfectly in the center*/
 }
+
 .login-box{
     background-color: rgb(232, 235, 237);
     padding: 70px;
@@ -22,8 +23,10 @@ body{
     border-radius: 0;
     width: 300px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
 
-
+.login{
+    background-color: rgb(141, 240, 240);
 }
 h2{
     margin: 0;
