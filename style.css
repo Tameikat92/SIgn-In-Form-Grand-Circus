@@ -50,6 +50,7 @@ body{
     color: #fff; /* Button text color */
     border: none;
     cursor: pointer;
+    margin-top: 20px; /* space input fields*/
  }
 
 
