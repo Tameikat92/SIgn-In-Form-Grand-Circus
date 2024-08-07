@@ -6,14 +6,17 @@ body{
     height: 100vh;
     margin: 0;
     position: relative;
+    
 }
 
 /*wrapper to go around body*/
 .wrapper {
-    background-color: #fff; /* White background for the wrapper */
+    max-width: 800px;
+    margin: 0 auto;
     padding: 20px;
+    background-color: #fff; /* White background for the wrapper */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+    border: #999;
    
 }
 
