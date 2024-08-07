@@ -70,3 +70,14 @@ input{
     border: 1px solid #ccc;
 
 }
+
+/* Styling for the checkbox  */
+input[type="checkbox"] {
+    margin-right: 10px; /* Space between checkbox and label */
+}
+
+label {
+    font-size: 10px;
+    color: darkgrey;
+}
+
