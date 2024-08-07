@@ -69,5 +69,6 @@ input{
     width: 80%; /* 80% OF THE PARENT VIEW*/
     margin: 10px auto; /* center the input fields */
     padding: 10px;
-    
+    border: 1px solid #ccc;
+
 }
