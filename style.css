@@ -16,10 +16,10 @@ body{
 }
 .login-box{
     background-color: rgb(232, 235, 237);
-    padding: 30px;
+    padding: 70px;
     text-align: center; /*making things look actually centered*/
     font-size: 32px;
-    border-radius: 8px;
+    border-radius: 0;
     width: 300px;
 
 }
